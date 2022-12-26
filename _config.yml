@@ -8,7 +8,7 @@ pages_list:
   Feed: '/atom.xml'
 
 # Setup
-title: Carsten Bundt
+title: John Doe
 tagline: The Jekyll Butler
 url: https://getpoole.com
 paginate: 1
