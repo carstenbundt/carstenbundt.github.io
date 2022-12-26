@@ -4,8 +4,8 @@ pages_list:
   research: '/research'
   cv: '/cv'
   materials: '/material'
-  Archive: '/archive'
-  Feed: '/atom.xml'
+  archive: '/archive'
+  feed: '/atom.xml'
 
 # Setup
 title: John Doe
