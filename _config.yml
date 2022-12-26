@@ -1,9 +1,9 @@
 #Header
 pages_list:
-  About: '/about'
-  Research: '/research'
-  CV: '/cv'
-  Material: '/material'
+  about: '/about'
+  research: '/research'
+  cv: '/cv'
+  materials: '/material'
   Archive: '/archive'
   Feed: '/atom.xml'
 
