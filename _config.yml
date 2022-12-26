@@ -2,6 +2,7 @@
 pages_list:
   about: '/about'
   research: '/research'
+  publications: '/publications'
   cv: '/cv'
   materials: '/material'
   archive: '/archive'
