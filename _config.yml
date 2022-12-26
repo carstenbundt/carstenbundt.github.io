@@ -8,7 +8,7 @@ pages_list:
   Feed: '/atom.xml'
 
 # Setup
-title: Poole
+title: Carsten Bundt
 tagline: The Jekyll Butler
 url: https://getpoole.com
 paginate: 1
