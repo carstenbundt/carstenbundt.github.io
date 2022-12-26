@@ -4,7 +4,7 @@ pages_list:
   research: '/research'
   publications: '/publications'
   cv: '/cv'
-  materials: '/material'
+  materials: '/materials'
   archive: '/archive'
   feed: '/atom.xml'
 
