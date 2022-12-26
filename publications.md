@@ -3,7 +3,13 @@ layout: page
 title: publications
 ---
 
-2014  Van der Lubbe, R. H., Bundt, C., & Abrahamse, E. L. (2014). Internal and external spatial attention examined with lateralized EEG power spectra. Brain research, 1583, 179-192.
+
+
+## 2017
+## 2016
+## 2015
+## 2014
+Van der Lubbe, R. H., Bundt, C., & Abrahamse, E. L. (2014). Internal and external spatial attention examined with lateralized EEG power spectra. Brain research, 1583, 179-192.
 
 
 
