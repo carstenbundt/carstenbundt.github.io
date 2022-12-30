@@ -6,7 +6,7 @@ pages_list:
   cv: '/cv'
   materials: '/materials'
   archive: '/archive'
- <!-- feed: '/atom.xml' -->
+  #feed: '/atom.xml'
 
 # Setup
 title: John Doe
