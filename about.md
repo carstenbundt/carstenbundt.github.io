@@ -11,4 +11,4 @@ Comments, suggestions, collaborations, or job offers? Please get in touch.
 
 e-mail: bundt DOT carsten AT gmail DOT com
 
-$ [GoogleScholar](https://scholar.google.be/citations?user=XVWNeUUAAAAJ&hl=de) | [ResearchGate](https://www.researchgate.net/profile/Carsten-Bundt) | [ORCID](https://orcid.org/0000-0002-3464-2330) | [LinkedIn](https://no.linkedin.com/in/carsten-bundt-phd-2a8806194) | [Twitter](https://twitter.com/neuronculus) $
+[GoogleScholar](https://scholar.google.be/citations?user=XVWNeUUAAAAJ&hl=de) | [ResearchGate](https://www.researchgate.net/profile/Carsten-Bundt) | [ORCID](https://orcid.org/0000-0002-3464-2330) | [OSF](https://osf.io/gkr9n/) | [LinkedIn](https://no.linkedin.com/in/carsten-bundt-phd-2a8806194) | [Twitter](https://twitter.com/neuronculus)
