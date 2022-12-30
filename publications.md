@@ -8,7 +8,6 @@ title: publications
 14 articles in international, peer-reviewed journals (5 first authorships). These articles were cited 339 times with a Hirsch index of h=8 ([Google scholar](https://scholar.google.com/citations?user=XVWNeUUAAAAJ&hl=en&oi=ao) on December 26, 2022).
 
 
-
 ### List of peer-reviewed publications
 
 - Dorison CA, Lerner JS, Heller BH, Rothman AJ, Kawachi II, Wang K, …, **Bundt C**, … & Coles NA (2022). In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: experimental evidence from 84 countries. *Affective Science, 3,* 577–602. [DOI](https://doi.org/10.1007/s42761-022-00128-3) |  [PDF](https://link.springer.com/content/pdf/10.1007/s42761-022-00128-3.pdf). 
