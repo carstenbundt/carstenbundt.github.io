@@ -5,7 +5,7 @@ title: publications
 <!--/* ![alt text](https://images.unsplash.com/photo-1507668077129-56e32842fceb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80){: style="float: left"; margin-right: 10em; height="25%" width="25%" 
 -->
 ### Summary of publication record
-14 articles in international, peer-reviewed journals (5 first authorships). These articles were cited 339 times with a Hirsch index of h=8 ([Google scholar](https://scholar.google.com/citations?user=XVWNeUUAAAAJ&hl=en&oi=ao) on December 26, 2022).
+15 articles in international, peer-reviewed journals (5 first authorships). These articles were cited 339 times with a Hirsch index of h=8 ([Google scholar](https://scholar.google.com/citations?user=XVWNeUUAAAAJ&hl=en&oi=ao) on December 26, 2022).
 
 
 ### List of peer-reviewed publications
