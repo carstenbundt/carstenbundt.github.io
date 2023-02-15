@@ -10,7 +10,10 @@ title: publications
 
 ### List of peer-reviewed publications
 
-- Dorison CA, Lerner JS, Heller BH, Rothman AJ, Kawachi II, Wang K, …, **Bundt C**, … & Coles NA (2022). In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: experimental evidence from 84 countries. *Affective Science, 3,* 577–602. 
+- Buchanan EM, Lewis SC, Paris B, Forscher PS, Pavlacic JM, Beshears JE, ..., **Bundt C**, ... & Primbs MA (2023). The Psychological Science Accelerator’s COVID-19 rapid-response dataset. *Scientific Data, 10,* 87.
+[DOI](https://doi.org/10.1038/s41597-022-01811-7)
+
+- Dorison CA, Lerner JS, Heller BH, Rothman AJ, Kawachi II, Wang K, ..., **Bundt C**, ... & Coles NA (2022). In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: experimental evidence from 84 countries. *Affective Science, 3,* 577–602. 
 [DOI](https://doi.org/10.1007/s42761-022-00128-3) | [PDF](https://link.springer.com/content/pdf/10.1007/s42761-022-00128-3.pdf). 
 
 - Psychological Science Accelerator Self-Determination Theory Collaboration (2022). A global experiment on motivating social distancing during the COVID-19 pandemic. *Proceedings of the National Academy of Sciences, 119(22),* e2111091119. 
