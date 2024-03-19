@@ -10,9 +10,12 @@ I have a bachelors degree in Psychology (supervision by [Rob van der Lubbe](http
 Find my academic CV [here](https://drive.google.com/file/d/1rFV7Gqb_UU_l_iN4bYLzJxGvLZxdcmQG/view?usp=sharing). 
 
 ## Contact
-Feel free to send me an email at: bundt [DOT] carsten [AT] gmail [DOT] com 
+Feel free to send me an email at: 
 
-##
+bundt [DOT] carsten [AT] gmail [DOT] com 
+
+
+Or find me at:
 
 [GoogleScholar](https://scholar.google.be/citations?user=XVWNeUUAAAAJ&hl=de) | 
 [ORCID](https://orcid.org/0000-0002-3464-2330) | 
