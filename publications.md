@@ -5,10 +5,15 @@ title: publications
 <!--/* ![alt text](https://images.unsplash.com/photo-1507668077129-56e32842fceb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80){: style="float: left"; margin-right: 10em; height="25%" width="25%" 
 -->
 ### Summary of publication record
-15 articles in international, peer-reviewed journals (5 first authorships). These articles were cited 339 times with a Hirsch index of h=8 ([Google scholar](https://scholar.google.com/citations?user=XVWNeUUAAAAJ&hl=en&oi=ao) on December 26, 2022).
+17 articles in international, peer-reviewed journals (6 first authorships). These articles were cited 510 times with a Hirsch index of h=10 ([Google scholar](https://scholar.google.com/citations?user=XVWNeUUAAAAJ&hl=en&oi=ao) on March 19, 2024).
 
 
 ### List of peer-reviewed publications
+- Thunberg C, Wiker T, **Bundt C**, & Huster RJ (in press). The (un)reliability of common behavioral and electrophysiological measures in the stop-signal task: markers of inhibition lack stability over time. Cortex.
+[DOI](https://doi.org/10.1016/j.cortex.2024.02.008) | [OSF](https://osf.io/dcb6g/) | [PDF](https://www.sciencedirect.com/science/article/pii/S0010945224000479/pdf).
+
+- **Bundt C** & Huster RJ (2024). Corticospinal excitability reductions during action preparation and action stopping in humans: Different sides of the same inhibitory coin? Neuropsychologia, 195, 108799.
+[DOI](https://doi.org/10.1016/j.neuropsychologia.2024.108799) | [PDF](https://www.sciencedirect.com/science/article/pii/S0028393224000149/pdf).
 
 - Buchanan EM, Lewis SC, Paris B, Forscher PS, Pavlacic JM, Beshears JE, ..., **Bundt C**, ... & Primbs MA (2023). The Psychological Science Accelerator’s COVID-19 rapid-response dataset. *Scientific Data, 10,* 87.
 [DOI](https://doi.org/10.1038/s41597-022-01811-7)
