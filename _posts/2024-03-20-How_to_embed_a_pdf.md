@@ -31,5 +31,5 @@ layout: page
 ## Conclusion
 Embedding a pdf on your Github-based website is easy and straightforward.
 
-## References
-- https://stackoverflow.com/questions/62206911/jekyll-gh-pages-embed-pdf
+## Source
+- (https://stackoverflow.com/questions/62206911/jekyll-gh-pages-embed-pdf)
