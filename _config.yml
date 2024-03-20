@@ -11,8 +11,8 @@ pages_list:
 
 # Setup
 title: Carsten Bundt
-tagline: The Jekyll Butler
-url: https://getpoole.com
+#tagline: The Jekyll Butler
+#url: https://getpoole.com
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -44,9 +44,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Carsten
+  #url: https://twitter.com/mdo
+  #email: markdotto@gmail.com
 
 # Custom vars
 version: 3.0.0
