@@ -12,7 +12,7 @@ pages_list:
 # Setup
 title: Carsten Bundt
 #tagline: The Jekyll Butler
-#url: https://getpoole.com
+url: https://carstenbundt.github.io/
 paginate: 1
 baseurl: ""
 permalink: pretty
