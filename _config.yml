@@ -11,7 +11,7 @@ pages_list:
 
 # Setup
 title: Carsten Bundt
-#tagline: The Jekyll Butler
+tagline: Distilling signal from the noise
 url: https://carstenbundt.github.io/
 paginate: 1
 baseurl: ""
