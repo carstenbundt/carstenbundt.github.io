@@ -14,7 +14,7 @@ lead:
 During the creation of this website, I struggled a little to figure out how to embed my CV in pdf. In the following I explain the steps I took to solve this issue. 
 
 ## Implementation
-1. The first step is to create a folder (*MYFOLDER* in the code below) and upload the relevant pdf file (*MYPDF.pdf* in the code below). Note that you could also just directly upload your pdf in the main directory, but subdirectories will help to keep track.
+1. The first step is to create a folder (<mark>MYFOLDER</mark> in the code below) and upload the relevant pdf file (<mark>MYPDF.pdf</mark> in the code below). Note that you could also just directly upload your pdf in the main directory, but subdirectories will help to keep track.
   
 2. The second step is to create a separate page for your website where you want to display your pdf.
 
