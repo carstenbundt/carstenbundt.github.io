@@ -9,7 +9,9 @@ I have a bachelors degree in Psychology (supervision by [Rob van der Lubbe](http
 
 Find my academic CV [here](https://drive.google.com/file/d/1rFV7Gqb_UU_l_iN4bYLzJxGvLZxdcmQG/view?usp=sharing). 
 
-This website exists so that I can share what I do and to engage in dialogue with who is interested.   
+I enjoy being outdoors and going on (long-distance) hikes. I am a tour guide for the [Norwegian Trekking Association](https://www.dnt.no/oslo) who maintain mountain trails and cabins in Norway and provide guided activities for everyone to experience nature.   
+
+This website exists so that I can share what I do and am passionate about and to engage in dialogue with who is interested. 
 
 ## Contact
 Feel free to send me an email at: 
