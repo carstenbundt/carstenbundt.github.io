@@ -1,6 +1,6 @@
 #Header
 pages_list:
-  #blog : '/blog'
+  blog : '/_posts'
   about: '/about'
   #research: '/research'
   #publications: '/publications'
@@ -46,7 +46,7 @@ sass:
 author:
   name: Carsten
   #url: https://twitter.com/mdo
-  #email: markdotto@gmail.com
+  email: bundt.carsten@gmail.com
 
 # Custom vars
 version: 3.0.0
