@@ -20,10 +20,6 @@ During the creation of this website, I struggled a little to figure out how to e
 
 3. On this newly created page you enter the code below to embed the actual pdf. 
 
-The code is based on the syntax `<!--This is a comment-->data="{{ site.url }}{{ site.baseurl }}/MYFOLDER/MYPDF.pdf<!--This is a comment-->" width="750" height="1000" type="application/pdf"></object>`
-
-Resulting in the following for my website
-
 ```html
 ---
 layout: page
