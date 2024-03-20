@@ -9,6 +9,8 @@ I have a bachelors degree in Psychology (supervision by [Rob van der Lubbe](http
 
 Find my academic CV [here](https://drive.google.com/file/d/1rFV7Gqb_UU_l_iN4bYLzJxGvLZxdcmQG/view?usp=sharing). 
 
+This website exists so that I can share what I do and to engage in dialogue with who is interested.   
+
 ## Contact
 Feel free to send me an email at: 
 
