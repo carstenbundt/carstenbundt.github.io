@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 ---
 
 My name is Carsten Bundt. I am a cognitive neuroscientist by training with a particular interest in data analysis, visualization, and communication.
