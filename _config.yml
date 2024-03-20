@@ -6,7 +6,7 @@ pages_list:
   #publications: '/publications'
   cv: '/cv'
   #materials: '/materials'
-  #archive: '/archive'
+  archive: '/archive'
   #feed: '/atom.xml'
 
 # Setup
