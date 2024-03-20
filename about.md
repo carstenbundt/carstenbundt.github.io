@@ -23,3 +23,6 @@ Or find me at:
 [ORCID](https://orcid.org/0000-0002-3464-2330) |
 [OSF](https://osf.io/gkr9n/) |
 [LinkedIn](https://no.linkedin.com/in/carsten-bundt-phd-2a8806194)
+
+## Imprint 
+This site was created using [Jekyll](https://jekyllrb.com/) and [Poole](https://getpoole.com/) and inspired by several resources such as [Joshua Lande's tutorial](http://joshualande.com/jekyll-github-pages-poole). 
