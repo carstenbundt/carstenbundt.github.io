@@ -20,8 +20,7 @@ During the creation of this website, I struggled a little to figure out how to e
 
 3. On this newly created page you enter the code below to embed the actual pdf. 
 
-<pre> <object data="{{ site.url }}{{ site.baseurl }}/MYFOLDER/MYPDF.pdf" width="750" height="1000" type="application/pdf"></object> </pre>
-
+The code is based on the syntax <mark>data="{{ site.url }}{{ site.baseurl }}/MYFOLDER/MYPDF.pdf" width="750" height="1000" type="application/pdf"></object> </mark>
 
 Resulting in the following for my website
 
