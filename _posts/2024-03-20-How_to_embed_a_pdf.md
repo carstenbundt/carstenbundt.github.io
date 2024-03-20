@@ -20,16 +20,10 @@ During the creation of this website, I struggled a little to figure out how to e
 
 3. On this newly created page you enter the code below to embed the actual pdf. 
 
-
-
-{%- capture rawContent -%}
-  {%- <object data="{{ site.url }}{{ site.baseurl }}/MYFOLDER/MYPDF.pdf" width="750" height="1000" type="application/pdf"></object> -%}
-{%- endcapture -%}
-
-<pre>{{- <object data="{{ site.url }}{{ site.baseurl }}/MYFOLDER/MYPDF.pdf" width="750" height="1000" type="application/pdf"></object> -}}</pre>
+<pre><object data="{{ site.url }}{{ site.baseurl }}/MYFOLDER/MYPDF.pdf" width="750" height="1000" type="application/pdf"></object></pre>
 
 which results in the following for my website
-```markdown
+```html
 ---
 layout: page
 ---
