@@ -26,8 +26,6 @@ Or find me at:
 [OSF](https://osf.io/gkr9n/) |
 [LinkedIn](https://no.linkedin.com/in/carsten-bundt-phd-2a8806194)
 
-{{ site.linkedin_badge }}
-
 
 ## imprint 
 This site was created using [Jekyll](https://jekyllrb.com/) and [Poole](https://getpoole.com/) and inspired by several resources such as [Joshua Lande's tutorial](http://joshualande.com/jekyll-github-pages-poole). 
