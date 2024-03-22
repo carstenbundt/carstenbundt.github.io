@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: About
 ---
 
 My name is Carsten Bundt. I am a cognitive neuroscientist by training with a particular interest in data analysis, visualization, and communication.
@@ -13,7 +13,7 @@ I enjoy being outdoors and going on (long-distance) hikes. I am a volunteer tour
 
 This website exists so that I can share what I do and am passionate about and to engage in dialogue with who is interested. 
 
-## contact
+## Contact
 Feel free to send me an email at: 
 
 bundt [DOT] carsten [AT] gmail [DOT] com 
@@ -32,5 +32,5 @@ Or find me on:
 [LinkedIn](https://no.linkedin.com/in/carsten-bundt-phd-2a8806194)
 
 
-## imprint 
+## Imprint 
 This site was created using [Jekyll](https://jekyllrb.com/) and [Poole](https://getpoole.com/) and inspired by several resources such as [Joshua Lande's tutorial](http://joshualande.com/jekyll-github-pages-poole). 
