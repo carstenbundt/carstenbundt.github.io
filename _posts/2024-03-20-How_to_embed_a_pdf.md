@@ -9,8 +9,11 @@ subtitle: 1 line of code (html)
 tags: [data science, website, html, pdf]
 lead: 
 ---
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 
-## Introduction
+
+## Background
 During the creation of this website, I struggled a little to figure out how to embed my CV in pdf. In the following I explain the steps I took to solve this issue. 
 
 ## Implementation
