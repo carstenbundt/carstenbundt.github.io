@@ -1,18 +1,9 @@
 ---
 layout: post
 published: true 
-
 comments: true
-
 title: How to embed pdf on your Jekyll website
 categories: website 
-
-<!--
-subtitle: 1 line of code (html)
-[data science, website, html, pdf]
-lead: 
--->
-
 ---
 <!--
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
