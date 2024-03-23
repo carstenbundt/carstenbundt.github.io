@@ -3,10 +3,10 @@ layout: page
 title: Publications
 ---
 <!--/* ![alt text](https://images.unsplash.com/photo-1507668077129-56e32842fceb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80){: style="float: left"; margin-right: 10em; height="25%" width="25%" 
--->
+
 ## Summary of publication record
 17 articles in international, peer-reviewed journals (6 first authorships). These articles were cited 510 times with a Hirsch index of h=10 ([Google scholar](https://scholar.google.com/citations?user=XVWNeUUAAAAJ&hl=en&oi=ao) on March 19, 2024).
-
+-->
 
 ## List of peer-reviewed publications
 Thunberg C, Wiker T, **Bundt C**, & Huster RJ (in press). The (un)reliability of common behavioral and electrophysiological measures in the stop-signal task: markers of inhibition lack stability over time. Cortex.
