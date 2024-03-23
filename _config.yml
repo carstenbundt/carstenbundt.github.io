@@ -3,7 +3,7 @@ pages_list:
   #blog : '/_posts'
   about: '/about'
   #research: '/research'
-  #publications: '/publications'
+  publications: '/publications'
   cv: '/cv'
   #materials: '/materials'
   archive: '/archive'
@@ -12,7 +12,7 @@ pages_list:
 
 # Setup
 title: Carsten Bundt
-tagline: Distilling signal from the noise
+tagline: Signal over noise
 url: https://carstenbundt.github.io/
 paginate: 1
 baseurl: ""
