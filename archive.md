@@ -17,7 +17,7 @@ Browse all posts by month and year.
   </ul>
 {% endfor %}
 
-<h1>Archive of posts with {{ page.category }} '{{ page.category }}'</h1>
+<h1>Archive of posts with {{ page.type }} '{{ page.title }}'</h1>
 <ul class="posts">
   {% for post in page.posts %}
     <li>
