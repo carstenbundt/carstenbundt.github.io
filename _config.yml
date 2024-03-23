@@ -35,6 +35,19 @@ exclude:
   - LICENSE.md
   - README.md
 
+jekyll-archives:
+  enabled: all
+  layouts: 
+    year: archive/year
+    month: archive/month
+    tag: archive/tag
+    category: archive/category
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    tag: '/tags/:name/'
+    category: '/category/:name/'
+
 sass:
   sass_dir: _sass
   style: :compressed
