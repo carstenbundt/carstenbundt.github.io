@@ -16,13 +16,3 @@ Browse all posts by month and year.
     {% endfor %}
   </ul>
 {% endfor %}
-
-<h1>Archive of posts with {{ post.category }} '{{ page.title }}'</h1>
-<ul class="posts">
-  {% for post in page.posts %}
-    <li>
-      <span class="post-category">{{ post.category | date: "%b %-d, %Y" }}</span>
-      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
