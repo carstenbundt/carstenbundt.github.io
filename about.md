@@ -13,7 +13,7 @@ I enjoy being outdoors and going on (long-distance) hikes. I am a volunteer tour
 
 This website exists so that I can share what I do and am passionate about and to engage in dialogue with who is interested. 
 
-# Contact
+## Contact
 Feel free to send me an email at: 
 
 bundt [DOT] carsten [AT] gmail [DOT] com 
