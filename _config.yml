@@ -8,6 +8,7 @@ pages_list:
   #materials: '/materials'
   archive: '/archive'
   #feed: '/atom.xml'
+  categories: '/categories'
 
 # Setup
 title: Carsten Bundt
