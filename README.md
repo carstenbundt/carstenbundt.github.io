@@ -1,6 +1,6 @@
 Personal website and blog at https://carstenbundt.github.io
 
-This site was created using [Jekyll](https://jekyllrb.com/) and [Poole](https://getpoole.com/) and inspired by several resources such as [Joshua Lande's tutorial](http://joshualande.com/jekyll-github-pages-poole). 
+This site was created using [Jekyll](https://jekyllrb.com/) and [Poole](https://getpoole.com/) and inspired by several resources such as [Joshua Lande's tutorial](http://joshualande.com/jekyll-github-pages-poole) and [Dylan Wolff's post](https://dylanwolff.com/posts/how-i-built-my-blog-with-jekyll-and-poole/).
 
 ## Sources:
 Favicons: https://icons8.com/
