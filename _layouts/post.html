@@ -23,3 +23,11 @@ layout: default
   </ul>
 </aside>
 {% endif %}
+
+
+<ul class="post-header">
+  <li><time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
+    {{ page.date | date_to_string }}</time></li>
+  <li class="read-time"><i class="fa fa-clock-o"></i>
+    {{ page.content | reading_time }}</li>
+</ul>
