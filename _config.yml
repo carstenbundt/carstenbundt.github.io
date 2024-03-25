@@ -1,12 +1,12 @@
 #Header
 pages_list:
-  blog : '/_posts'
+  #blog : '/_posts'
   #about: '/about'
   #research: '/research'
   publications: '/publications'
   cv: '/cv'
   #materials: '/materials'
-  #archive: '/archive'
+  archive: '/archive'
   #feed: '/atom.xml'
   #categories: '/categories'
 
