@@ -1,6 +1,6 @@
 #Header
 pages_list:
-  #blog : '/_posts'
+  blog : '/_posts'
   #about: '/about'
   #research: '/research'
   publications: '/publications'
