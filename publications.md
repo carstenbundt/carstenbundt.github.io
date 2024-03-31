@@ -41,9 +41,9 @@ Reimer CB, Chen Z, **Bundt C**, Eben C, London RE, Vardanian S (2019). Open up â
 **Bundt C**, Bardi L, Verbruggen F, Boehler CN, Brass M & Notebaert W (2019).  Reward anticipation changes corticospinal excitability during task preparation depending on response requirements and time pressure. *Cortex, 120,* 159-168. 
 [DOI](https://doi.org/10.1016/j.cortex.2019.05.020) | [OSF](https://osf.io/atx26/). 
 
-**Bundt C***, Ruitenberg MFL*, Abrahamse EL & Notebaert W (2018). Early and late indications of item-specific control in a Stroop mouse tracking study. *PLoS ONE, 13(5):* e0197278. 
+**Bundt C**\*, Ruitenberg MFL*, Abrahamse EL & Notebaert W (2018). Early and late indications of item-specific control in a Stroop mouse tracking study. *PLoS ONE, 13(5):* e0197278. 
 [DOI](https://doi.org/10.1371/journal.pone.0197278) | [OSF](https://osf.io/8mcvg/) | [PDF](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0197278&type=printable).  
-*these authors contributed equally to this work
+Â§these authors contributed equally to this work
 
 **Bundt C**, Abrahamse EL, Braem S, Brass M & Notebaert W (2016). Reward anticipation modulates primary motor cortex excitability during task preparation. *NeuroImage, 142,* 483-488. 
 [DOI](https://doi.org/10.1016/j.neuroimage.2016.07.013).
