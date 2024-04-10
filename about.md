@@ -29,6 +29,4 @@ Or find me on:
 [GoogleScholar](https://scholar.google.com/citations?user=XVWNeUUAAAAJ) |
 [ORCID](https://orcid.org/0000-0002-3464-2330) |
 [OSF](https://osf.io/gkr9n/) |
-[LinkedIn](https://no.linkedin.com/in/carstenbundt) |
-
 [LinkedIn](https://no.linkedin.com/in/carstenbundt)
