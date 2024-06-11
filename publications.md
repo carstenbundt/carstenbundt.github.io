@@ -9,10 +9,10 @@ title: Publications
 -->
 
 ## List of peer-reviewed publications
-Thunberg C, Wiker T, **Bundt C**, & Huster RJ (2024). The (un)reliability of common behavioral and electrophysiological measures in the stop-signal task: markers of inhibition lack stability over time. Cortex, 175, 81-105.
+Thunberg C, Wiker T, **Bundt C**, & Huster RJ (2024). The (un)reliability of common behavioral and electrophysiological measures in the stop-signal task: markers of inhibition lack stability over time. *Cortex, 175,* 81-105.
 [DOI](https://doi.org/10.1016/j.cortex.2024.02.008) | [OSF](https://osf.io/dcb6g/) | [PDF](https://www.sciencedirect.com/science/article/pii/S0010945224000479/pdf).
 
-**Bundt C** & Huster RJ (2024). Corticospinal excitability reductions during action preparation and action stopping in humans: Different sides of the same inhibitory coin? Neuropsychologia, 195, 108799.
+**Bundt C** & Huster RJ (2024). Corticospinal excitability reductions during action preparation and action stopping in humans: Different sides of the same inhibitory coin? *Neuropsychologia, 195,* 108799.
 [DOI](https://doi.org/10.1016/j.neuropsychologia.2024.108799) | [PDF](https://www.sciencedirect.com/science/article/pii/S0028393224000149/pdf).
 
 Buchanan EM, Lewis SC, Paris B, Forscher PS, Pavlacic JM, Beshears JE, ..., **Bundt C**, ... & Primbs MA (2023). The Psychological Science Accelerator’s COVID-19 rapid-response dataset. *Scientific Data, 10,* 87.
