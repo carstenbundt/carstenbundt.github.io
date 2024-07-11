@@ -10,7 +10,7 @@ I have a bachelors degree in Psychology (supervision by [Rob van der Lubbe](http
 
 You can find my publications [here](https://carstenbundt.github.io/publications/) and my full academic CV [here](https://carstenbundt.github.io/cv/). 
 
-I enjoy being outdoors and going on (long-distance) hikes. I am a volunteer tour guide for the [Norwegian Trekking Association](https://www.dnt.no/oslo) and post about it on [thehikist.com](https://www.thehikist.com) and [@thehikistcom](https://www.instagram.com/thehikistcom/).
+I am a volunteer tour guide for the [Norwegian Trekking Association](https://www.dnt.no/oslo), I enjoy being outdoors and going on (long-distance) hikes. I post about it on [thehikist.com](https://www.thehikist.com) and [@thehikistcom](https://www.instagram.com/thehikistcom/). 
 
 This website exists so that I can share what I do and am passionate about and to engage in dialogue with who is interested. 
 
