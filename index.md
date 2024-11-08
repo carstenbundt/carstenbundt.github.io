@@ -6,7 +6,7 @@ title: About
 Hi! 
 My name is Carsten Bundt. I am a cognitive neuroscientist by training with a particular interest in data analysis, visualization, and communication.
 
-![Book logo](carstenbundt.github.io/assets/123.jpg)
+![Book logo](carstenbundt.github.io/assets/images/123.jpg)
 
 I have a bachelors degree in Psychology (supervision by [Rob van der Lubbe](https://people.utwente.nl/r.h.j.vanderlubbe) and [Elger Abrahamse](https://research.tilburguniversity.edu/en/persons/elger-abrahamse)), a masters degree in Cognitive Neuroscience (supervision by [Roshan Cools](https://www.roshancools.com/)), and completed my PhD in Psychology in 2017 under the supervision of [Wim Notebaert](https://www.notelab.be/) and [Marcel Brass](https://social-intelligence-group.github.io/). Currently, I work as a postdoctoral researcher in the [Multimodal Imaging & Cognitive Control lab](https://www.micc-lab.com/) led by [René Huster](https://scholar.google.com/citations?user=w0GRwhwAAAAJ&hl=en&oi=ao) at the University of Oslo. 
 
