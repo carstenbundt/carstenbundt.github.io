@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img align="right" width=40% height=40% src="https://carstenbundt.github.io/assets/images/123.jpg">
+<img align="right" width=30% height=30% src="https://carstenbundt.github.io/assets/images/123.jpg">
 
 Hi! 
 My name is Carsten Bundt. I am a cognitive neuroscientist by training with a particular interest in data analysis, visualization, and communication.
