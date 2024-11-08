@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-<img align="right" width="30%" height="30%" src="https://carstenbundt.github.io/assets/images/123.jpg" style= "margin:25px 25px">
+<img align="right" width="40%" height="40%" src="https://carstenbundt.github.io/assets/images/123.jpg" style= "margin:25px 25px">
 Hi! 
 
 
