@@ -5,7 +5,7 @@ title: About
 
 Hi! 
 
-<img align="right" width="30%" height="30%" src="https://carstenbundt.github.io/assets/images/123.jpg" style= "margin:250px">
+<img align="right" width="30%" height="30%" src="https://carstenbundt.github.io/assets/images/123.jpg" style= "margin:250px 250px">
 My name is Carsten Bundt. I am a cognitive neuroscientist by training with a particular interest in data analysis, visualization, and communication.
 
 
